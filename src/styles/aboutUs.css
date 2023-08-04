@@ -1,0 +1,30 @@
+.container{
+    width: 700px;
+    border: 1px solid gray;
+    border-radius: 10px;
+    display: relative;
+    justify-content:space-between;
+    margin: auto;
+    padding: 20px;
+    box-shadow: 2px 5px 3px 1px gray;
+    font-size: 2rem; 
+    color:yellow;
+    background-color: blue;
+}
+
+.h1Container{
+    color:rgb(136, 158, 13);
+    display: flex;
+    justify-content: center;
+    box-shadow: 2px 3px 3px 2px gray;
+}
+.pContainer{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    padding: 10px;
+    border: 1px solid gray;
+    border-radius: 5px;
+    
+
+}

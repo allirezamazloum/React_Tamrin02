@@ -1,0 +1,27 @@
+.mainContainer{
+    display: flex;
+    justify-content: space-around;
+
+}
+.containerMovie{
+    width:250px;
+    height:450px;
+    border: 1px solid gray;
+    border-radius: 10px;
+    margin: 5px;
+    padding: 5px;
+    position: relative;
+    display: inline;
+    
+    
+
+
+}
+.imgMovi{
+    width: 200px;
+    height:300px;
+    margin: auto;
+    padding: 10px;
+    display: flex;
+    
+}

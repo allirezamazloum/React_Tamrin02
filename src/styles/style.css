@@ -1,0 +1,23 @@
+.nav{
+
+    display: flex;
+    justify-content: space-around;
+    height: 50px;
+
+}
+a {
+    color: #f16121;
+    text-decoration: none;
+}
+
+a:hover,
+a:focus {
+    color: #92b906;
+    text-decoration: none;
+}
+
+a:focus {
+    outline: thin dotted;
+    outline: 5px auto -webkit-focus-ring-color;
+    outline-offset: -2px;
+}
